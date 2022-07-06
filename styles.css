@@ -40,3 +40,6 @@ a:link{
 ul{
     list-style: none;
 }
+.list-margin{
+    margin-bottom: 0.5rem;
+}
